@@ -1,7 +1,18 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
+<!-- Hacker Neon Typing -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=700&lines=>>+I'm+Ali+Haitham;>>+Frontend+Developer+|+Penetration+Tester;>>+Welcome+to+my+GitHub+🚀" 
+alt="Typing Hacker Intro" />
+
+<br>
+<!-- Neon Glow Name -->
+<h1 style="color:#00ff9f; text-shadow: 0 0 10px #00ff9f, 0 0 20px #00ff9f;">
+  ⚡ ALI HAITHAM ⚡
+</h1>
+
+<!-- Animated Workspace -->
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" 
+alt="Workspace" width="40%"/>
 
 </div>
 
