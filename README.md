@@ -5,7 +5,7 @@
 
 </div>
 
-<h1 align="center">Hi, I'm Ali Haitham 👋</h1>
+<h1 align="center">Ali Haitham | علي هيثم 👋</h1>
 <h3 align="center">Frontend Developer | Penetration Tester (Cyber Security) | Content Creator</h3>
 
 ---
