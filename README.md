@@ -1,54 +1,59 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ali+Haitham;Frontend+Developer+%F0%9F%92%BB;Cyber+Security+Learner+%F0%9F%94%90;Content+Creator+%F0%9F%8E%A5" />
+# 👋 Hey, I'm Ali Haitham
+
+💻 Front-End Developer | 🔐 Cyber Security Enthusiast | 🎥 Content Creator
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-Frontend Developer building modern UI experiences ⚡  
-Cyber Security learner exploring ethical hacking 🔐  
-Content Creator sharing tech knowledge 🎥  
-
----
-
-## ⚙️ Skills
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,python,linux,git,figma" />
+- Front-End Developer focused on building modern web apps  
+- Currently diving deep into Cyber Security & Ethical Hacking  
+- YouTube content creator (Programming & Tech)  
+- Passionate about UI/UX & secure systems  
+- Always learning, always building  
 
 ---
 
-## 📊 Stats
+## ⚒️ Tech Stack
+
+**Frontend**
+React • Next.js • JavaScript • TypeScript • HTML • CSS
+
+**Backend & Security**
+Python • Linux • Bash • Networking Basics • OWASP Top 10
+
+**Tools**
+Git • VS Code • Figma • Wireshark • Burp Suite
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AliHaitham&show_icons=true&theme=tokyonight" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHaitham&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=AliHaitham&show_icons=true&theme=radical" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHaitham&layout=compact&theme=radical" width="48%">
 
 </div>
 
 ---
 
-## 🔥 Current Focus
+## 🎥 Content Creator
 
-- Web Development mastery  
-- Cyber Security fundamentals  
-- Building real-world projects  
-- YouTube content growth  
+- Web Development Tutorials  
+- Cyber Security Basics  
+- Front-End Projects  
 
----
-
-## 💬 Quote
-
-> “Learn. Build. Break. Secure.”
+📺 YouTube: (ضع الرابط هنا)
 
 ---
 
 <div align="center">
 
-⭐ If you like my work, follow me on GitHub ⭐
+💡 "Build. Break. Secure. Repeat."
 
 </div>
