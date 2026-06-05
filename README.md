@@ -5,11 +5,6 @@
 alt="Typing Hacker Intro" />
 
 <br>
-<!-- Neon Glow Name -->
-<h1 style="color:#00ff9f; text-shadow: 0 0 10px #00ff9f, 0 0 20px #00ff9f;">
-  ⚡ ALI HAITHAM ⚡
-</h1>
-
 <!-- Animated Workspace -->
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" 
 alt="Workspace" width="40%"/>
@@ -17,7 +12,7 @@ alt="Workspace" width="40%"/>
 </div>
 
 <h1 align="center">👋 Ali Haitham </h1>
-<h3 align="center">Frontend Developer | Penetration Tester| Content Creator | Founder of <a href="https://ali-haitham00.github.io/Website-for-learning-programming/"></a>مسارك التقني</h3>
+<h3 align="center">Frontend Developer | Penetration Tester| Content Creator | Founder of <a href="https://ali-haitham00.github.io/Website-for-learning-programming/">مسارك التقني</a>  </h3>
 
 <p align="center">
 
@@ -26,14 +21,16 @@ alt="Workspace" width="40%"/>
 </a>
 
 <a href="https://ali-haitham00.github.io/My-Personal-Website/" target="_blank">
-  <img src="https://img.shields.io/badge/WEBSITE-Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WEBSITE-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://learnsimply.com](https://ali-haitham00.github.io/Website-for-learning-programming/" target="_blank">
-  <img src="https://img.shields.io/badge/LEARN-SIMPLY-1E90FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+<a href="https://ali-haitham00.github.io/Website-for-learning-programming/" target="_blank">
+  <img src="https://img.shields.io/badge/LEARN%20SIMPLY-Start%20Learning-1E90FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
 </p>
+
+
 
 ---
 
